@@ -30,3 +30,5 @@ bin/
 .idea/
 out/
 .iml
+.idea/
+Java5.iml
